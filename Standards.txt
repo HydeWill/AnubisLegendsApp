@@ -1,0 +1,10 @@
+Hello Everyone!
+
+Standards: 
+
+Code in camelCase
+Make Tests!
+
+Making changes to test merge request
+
+Thomas Out
