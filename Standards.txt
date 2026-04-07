@@ -1,0 +1,8 @@
+Hello Everyone!
+
+Standards: 
+
+Code in camelCase
+Make Tests!
+
+Thomas Out
